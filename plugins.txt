@@ -34,3 +34,4 @@ workflow-multibranch:2.8
 workflow-scm-step:2.2
 workflow-step-api:2.2
 workflow-support:2.2
+job-dsl:1.48
